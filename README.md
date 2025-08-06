@@ -14,6 +14,8 @@ Este projeto é ideal para estudantes e desenvolvedores iniciantes que desejam e
 ## 🛠 Tecnologias Utilizadas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 📂 Estrutura do Projeto
 O projeto segue uma organização modular, refletindo os conceitos de POO:
 - **Classes Principais**:
